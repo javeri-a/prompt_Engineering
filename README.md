@@ -1,11 +1,11 @@
 # prompt_Engineering
 🎓 Quarter 04 — First Class (10-10-2025)
 
-🤖 What is Prompt Engineering?
+# 🤖 What is Prompt Engineering?
 Prompt engineering means writing clear and smart instructions (prompts) to tell an AI what to do.
 It helps you “talk” to AI so it gives you the best answers.
 
-💡 Why It’s Important
+#💡 Why It’s Important
 
 You don’t need to code.
 
@@ -15,18 +15,18 @@ Practice improves accuracy.
 
 It’s a key skill for working faster and smarter.
 
-⚙️ Prompt Engineering vs Context Engineering
+# ⚙️ Prompt Engineering vs Context Engineering
 
 Prompt Engineering: How you ask the AI to do something.
 
 Context Engineering: What information you show the AI to help it answer correctly.
 
-🧩 How They Work Together
+ # 🧩 How They Work Together
 Prompt = How you ask
 Context = What you show
 Together, they make the AI smart and reliable.
 
-🧠 Understanding Large Language Models (LLMs)
+ # 🧠 Understanding Large Language Models (LLMs)
 LLMs (like ChatGPT) are trained to predict the next word in a sentence.
 They don’t think like humans.
 They use patterns learned from large text data.
