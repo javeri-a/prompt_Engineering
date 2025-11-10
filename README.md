@@ -60,13 +60,13 @@ Example: “Explain how blockchain works in simple terms.”
 The AI uses only its training knowledge to answer.
 Use this when the task is simple or factual.
 
-2. One-shot prompting
+# 2. One-shot prompting
 You show the AI one example to teach the pattern.
 Example:
 “Example: Translate this to French – Hello = Bonjour. Now translate Good Morning.”
 This helps the AI learn your format.
 
-3. Few-shot prompting
+# 3. Few-shot prompting
 You give multiple examples before your real question.
 Example:
 “Example 1: Question: What is AI? Answer: Artificial Intelligence is…
@@ -74,17 +74,17 @@ Example 2: Question: What is ML? Answer: Machine Learning is…
 Now, Question: What is NLP?”
 Few-shot improves consistency and tone because the AI mimics your samples.
 
-4. System prompting
+# 4. System prompting
 You define how the AI should behave globally.
 Example: “You are an academic writing assistant who writes concise and professional summaries.”
 System prompts control style, role, and boundaries of behavior.
 
-5. Role prompting
+# 5. Role prompting
 You tell the model to act as an expert.
 Example: “Act as a senior data scientist and explain model overfitting.”
 This triggers domain-specific knowledge and tone.
 
-6. Contextual prompting
+# 6. Contextual prompting
 You give background information before the task.
 Example: “Here’s a short article about renewable energy. Summarize it in 3 bullet points.”
 This adds grounding so the answer stays relevant and factual.
