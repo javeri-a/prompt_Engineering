@@ -40,3 +40,11 @@ The AI predicts the next word.
 It repeats until it forms a complete answer.
 
 It learns from millions of examples it studied before.
+
+# practice of the day
+Act as a professional AI expert.
+Help me understand the impact of AI on future jobs.
+I am a web developer and curious about how AI will change work in tech and other fields.
+Write the answer in three clear paragraphs using simple, easy-to-understand language.
+Include real-life examples.
+Keep the total length around 400 words.
