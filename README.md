@@ -88,3 +88,7 @@ This triggers domain-specific knowledge and tone.
 You give background information before the task.
 Example: “Here’s a short article about renewable energy. Summarize it in 3 bullet points.”
 This adds grounding so the answer stays relevant and factual.
+# 6. Contextual prompting
+You give background information before the task.
+Example: “Here’s a short article about renewable energy. Summarize it in 3 bullet points.”
+This adds grounding so the answer stays relevant and factual.
