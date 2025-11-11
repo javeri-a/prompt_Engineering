@@ -1,5 +1,5 @@
 # prompt_Engineering
-🎓 Quarter 04 — First Class (10-10-2025)
+🎓 Quarter 04 First Class (10-10-2025)
 
 # 🤖 What is Prompt Engineering?
 Prompt engineering means writing clear and smart instructions (prompts) to tell an AI what to do.
