@@ -92,3 +92,44 @@ This adds grounding so the answer stays relevant and factual.
 You give background information before the task.
 Example: “Here’s a short article about renewable energy. Summarize it in 3 bullet points.”
 This adds grounding so the answer stays relevant and factual.
+
+🎓 Class 03 Summary — Context Engineering (24 Oct 2025)
+
+🧠 What is Context Engineering
+It means giving an LLM the right data, in the right structure, at the right time.
+“LLM = CPU, Context Window = RAM.” – André Karpathy
+Prompt engineering is user-level.
+Context engineering is developer-level.
+
+⚔️ Prompt vs Context Engineering
+Prompt = chat-style instruction.
+Context = structured setup for autonomous agents (XML, JSON, markdown).
+Agents must think ahead because they don’t rely on back-and-forth dialogue.
+
+🧩 Six Essential Components of AI Agents
+
+Model – the AI brain (GPT, Claude, etc.)
+
+Tools – APIs and external functions
+
+Knowledge & Memory – static and dynamic data
+
+Audio & Speech – natural voice communication
+
+Guardrails – tone, safety, and policy filters
+
+Orchestration – coordination of all components
+
+🍔 Burger Analogy
+
+Bun = Model
+
+Patty = Core logic
+
+Condiments = Tools, memory, guardrails
+
+Recipe = Context engineering
+
+🧠 Example — AI Research Assistant
+A structured system prompt defines the agent’s role, I/O format, and task logic using XML and JSON.
+This enables autonomous reasoning and controlled, context-aware responses.
